@@ -7,8 +7,6 @@
 * It is an application where we can enter different names, colors etc.
 and any one of them would be chosen at random.
 
-<br>
-
 - App Download Link : [Site](https://drive.google.com/drive/folders/11_ejEcXlVllthe-VeyOs2HSN9UjZdgmE?usp=sharing)
 
 
